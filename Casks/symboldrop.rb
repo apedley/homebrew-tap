@@ -5,7 +5,7 @@ cask "symboldrop" do
   url "https://github.com/apedley/symboldrop/releases/download/v0.1.0/SymbolDrop.app.zip",
       verified: "github.com/apedley/symboldrop/"
   name "SymbolDrop"
-  desc "Short one-line description"
+  desc "Menu bar app for browsing and copying SF Symbols"
   homepage "https://github.com/apedley/symboldrop"
 
   app "SymbolDrop.app"
