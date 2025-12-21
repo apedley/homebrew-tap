@@ -1,8 +1,8 @@
 cask "symboldrop" do
-  version "0.1.0"
-  sha256 "91b027eb5b4d9f8582883089437845bc0cb502654f5a90f79767968411a8ad96"
+  version "1.2"
+  sha256 "e2d340f5307fe6f9a68f1e7e2de477e3e3df8529509b13576ba6c585fb0e33bb"
 
-  url "https://github.com/apedley/symboldrop/releases/download/v0.1.0/SymbolDrop.app.zip",
+  url "https://github.com/apedley/symboldrop/releases/download/v1.2/SymbolDrop.app.zip",
       verified: "github.com/apedley/symboldrop/"
   name "SymbolDrop"
   desc "Menu bar app for browsing and copying SF Symbols"
